@@ -1,7 +1,7 @@
 # Copy Cut Paste Undo
 Copy Cut Paste Undo is a macropad made for making copying, cutting, pasting and undoing easier and faster by reducing the amount of keys you have to press.
 
-![](image-1.png)
+![alt text](image.png)
 
 # Specs
 ### BOM:
